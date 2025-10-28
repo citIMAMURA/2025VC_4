@@ -1,0 +1,17 @@
+@charset "utf-8";
+body img {
+    width: 50%;
+    float: left;
+}
+.Greeting {
+    width: 50%;
+    float: left;
+    border-color: #FFB700;
+    font-size: 170%;
+
+
+
+}
+body h1 {
+    font-family: "HGS創英角ﾎﾟｯﾌﾟ体";
+}
